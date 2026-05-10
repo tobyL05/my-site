@@ -3,8 +3,8 @@ software engineer intern @ squarepoint capital | cs @ ubc \
 &nbsp; &nbsp;&nbsp; [linkedin](https://linkedin.com/in/tobylau05) &nbsp; [resume](https://drive.google.com/file/d/1WbbkIwVgKUAZMIO0N1mTVdyvx90WhHm3/view)&nbsp;
 
 ### experience:
-- software engineer intern @ squarepoint Capital &nbsp; // May 2026 -- Aug 2026
-    - Data Services: Building tools for quants and discretionary traders.
+- software engineer intern @ squarepoint capital &nbsp; // May 2026 -- Aug 2026
+    - Data Services: Building tools for quants and discretionary traders
 - software engineer intern @ planview &nbsp; // jan 2025 -- aug 2025
     - Planview Anvi (fka Copilot): AI Products
 - it/av support analyst @ ubc dentistry &nbsp; // sep 2024 -- dec 2024
