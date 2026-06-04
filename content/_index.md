@@ -1,6 +1,6 @@
 **software engineer intern @ squarepoint capital | cs @ ubc**\
 \
-&nbsp; &nbsp;&nbsp; <a target="_blank" href="https://linkedin.com/in/tobylau05">linkedin</a> &nbsp; <a target="_blank" href="my-site/TobyLau_Resume.pdf">resume</a> &nbsp; <a href="mailto:toby.lau075@gmail.com">email</a>
+&nbsp; &nbsp;&nbsp; <a target="_blank" href="https://linkedin.com/in/tobylau05">linkedin</a> &nbsp; <a target="_blank" href="TobyLau_Resume.pdf">resume</a> &nbsp; <a href="mailto:toby.lau075@gmail.com">email</a>
 
 ### experience:
 
