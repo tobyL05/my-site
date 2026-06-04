@@ -12,6 +12,8 @@ title = 'toby lau'
       [markup.goldmark.parser.attribute]
         block = true
         title = true
+    [markup.goldmark.renderer]
+      unsafe = true
 
   [markup.highlight]
     anchorLineNos      = false
@@ -40,3 +42,4 @@ title = 'toby lau'
     date_format       = "2006-01-02"
     isListGroupByDate = false
     isShowFooter      = false
+
