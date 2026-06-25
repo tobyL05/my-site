@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://tobylau.xyz'
 title = 'toby lau'
 
 [module]
