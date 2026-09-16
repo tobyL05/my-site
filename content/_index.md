@@ -4,11 +4,14 @@
 
 ### experience:
 
+- software engineer intern @ **squarepoint capital** &nbsp; // sep 2026 -- dec 2026
+  - data services: quantitative research tools (portfolio construction & Trading)
+
 - fellow @ **databricks** &nbsp; // jun 2026 -- present
-  - 1/36 students worldwide selected to become a <a target="_blank" href="https://www.databricks.com/blog/announcing-databricks-student-fellows">databricks student fellow</a>
+  - 36/5000+ students worldwide selected to become a <a target="_blank" href="https://www.databricks.com/blog/announcing-databricks-student-fellows">databricks student fellow</a>
 
 - software engineer intern @ **squarepoint capital** &nbsp; // may 2026 -- aug 2026
-  - data services: quantitative research tools
+  - data services: quantitative research tools (commodities)
 
 - software engineer intern @ **planview** &nbsp; // jan 2025 -- aug 2025
   - Planview Anvi (fka Copilot): AI Products
@@ -18,7 +21,7 @@
 
 ### education:
 
-- bsc. computer science @ ubc vancouver &nbsp; // graduating 2028
+- bsc. computer science @ ubc vancouver &nbsp; // graduating may 2028
   - dean's list
 
 ### projects:
